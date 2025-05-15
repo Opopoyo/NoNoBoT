@@ -2,8 +2,8 @@
 #include <Adafruit_PWMServoDriver.h>
 
 // Informations Wi-Fi
-const char* ssid = "SFR_4FB0";
-const char* password = "yyp58vriy4kaw94wuix8";
+const char* ssid = "";
+const char* password = "";
 
 // Initialisation du pilote PCA9685
 Adafruit_PWMServoDriver board1 = Adafruit_PWMServoDriver(0x40);
