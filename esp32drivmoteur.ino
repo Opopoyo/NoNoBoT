@@ -1,3 +1,6 @@
+//  Pilote de bouclier servo PWM, 16 canaux, 12 bits, PCA9685PW, interface I2C  
+//  3 servomoteur
+
 #include <WiFi.h>
 #include <Adafruit_PWMServoDriver.h>
 
